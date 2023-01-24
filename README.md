@@ -14,9 +14,6 @@
 
 ![rofi](/screenshots/rofi.png)
 
-
-<img width="28%" align="right" src="https://w7.pngwing.com/pngs/577/592/png-transparent-gtk-gtk-qt-pygtk-graphical-user-interface-gtkmm-others-logo-sign-number-thumbnail.png" />
-
 ## Apariencia
 
 
