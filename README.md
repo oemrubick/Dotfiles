@@ -1,11 +1,11 @@
 # Dotfiles
 
-<!-- ## Bspwm
+## Bspwm
 ![desktop](/screenshots/desktop.png)
 
 ---
 
-![terminal](/screenshots/terminal.png) -->
+![terminal](/screenshots/terminal.png)
 
 ---
 
