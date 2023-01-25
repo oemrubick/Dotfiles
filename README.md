@@ -1,14 +1,13 @@
 # Dotfiles
 
-## Bspwm
+<!-- ## Bspwm
 ![desktop](/screenshots/desktop.png)
 
 ---
 
-![terminal](/screenshots/terminal.png)
+![terminal](/screenshots/terminal.png) -->
 
 ---
-
 
 ## Rofi
 
@@ -58,6 +57,16 @@
 ### oh-my-zsh
 
 ### powerlevel10k
+
+[powelevel10k repo](https://github.com/romkatv/powerlevel10k#getting-started)
+
+### lsd
+
+[lsd](https://github.com/Peltoche/lsd)
+
+### cat
+
+[cat](https://github.com/sharkdp/bat)
 
 ### plugins
 
