@@ -28,7 +28,17 @@
 
 </details>
 
+---
 
+<details>
+  <summary>Tokio Night Storm Theme</summary>
+
+![tokio desktop](/screenshots/tokio-desktop.png)
+
+---
+
+![tokio terminal](/screenshots/tokio-terminal.png)
+  </details>
 
 ---
 
