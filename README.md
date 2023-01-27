@@ -1,17 +1,21 @@
 # Dotfiles
 
 ## Bspwm
-![desktop](/screenshots/desktop.png)
+
+<details>
+  <summary>Batman Theme</summary>
+  
+![desktop](/screenshots/batman-desktop.png)
 
 ---
 
-![terminal](/screenshots/terminal.png)
+![terminal](/screenshots/batman-terminal.png)
 
 ---
 
 ## Rofi
 
-![rofi](/screenshots/rofi.png)
+![rofi](/screenshots/batman-rofi.png)
 
 ## Apariencia
 
@@ -21,6 +25,10 @@
 | GTK Theme        | [LightningBug](https://www.pling.com/p/1238824)      |
 | Icon Theme       | [WhiteSur-grey-dark](https://www.pling.com/p/1403328)|
 | Cursor Theme     | [McMojave Cursors](https://www.pling.com/p/1355701/) |
+
+</details>
+
+
 
 ---
 
