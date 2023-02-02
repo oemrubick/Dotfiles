@@ -141,9 +141,6 @@ alias lg='lsd -l --group-directories-first'
 #cat
 alias cat='bat'
 
-#mine
-alias kotlin='cd /home/jaen/GitHub/Kotlin/HyperSkill-Kotlin'
-
 
 # git
 alias gcl='git clone --depth 1'
