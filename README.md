@@ -42,6 +42,18 @@
 
 ---
 
+<details>
+  <summary>Hipster Theme</summary>
+
+![hipster desktop](/screenshots/hipster-desktop.png)
+
+---
+
+![hipster terminal](/screenshots/hipster-terminal.png)
+  </details>
+
+---
+
 ## Dependencias
 
 <img width="40%" align="right" src="https://archcraft.io/images/logo.svg" />
